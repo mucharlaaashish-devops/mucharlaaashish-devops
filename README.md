@@ -87,11 +87,59 @@ I enjoy working at the intersection of **automation, cloud platforms, container 
 
 # 📈 Contribution Activity
 
-<div align="center">
+## 🚀 Current Contribution & Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikagarg0326&theme=tokyo-night"/>
+### 🇮🇳 Viksit Bharat Buildathon
 
-</div>
+**Large-Scale Government & Education Platform**
+
+Contributed to the cloud infrastructure, application deployment, server configuration, and production support of the Viksit Bharat Buildathon platform.
+
+### 📊 Platform Scale
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Schools-68%2C775-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Teachers-184%2C646-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Students-390%2C486-6F42C1?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Teams-94%2C325-F0883E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ideas%20Submitted-45%2C022-D73A49?style=for-the-badge"/>
+
+</p>
+
+### ☁️ Infrastructure Scale
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/5×-Application%20Deployments-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5×-Frontend%20Servers-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5×-Backend%20Servers-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5×-Database%20Servers-336791?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/5×-Application%20URLs-6F42C1?style=for-the-badge"/>
+
+</p>
+
+> **Infrastructure handled:** 5 application stacks, each consisting of frontend, backend, and database infrastructure, supporting the same large-scale platform.
+
+### 🔧 DevOps Responsibilities
+
+* Cloud infrastructure setup and configuration
+* Frontend and backend application deployment
+* Database/server configuration
+* DNS and application URL configuration
+* Production environment support
+* Monitoring and troubleshooting
+* Application/server maintenance
+* Deployment and release support
+
+🔗 **Live Platform:** https://vbb.mic.gov.in/
+
 
 ---
 
@@ -104,8 +152,4 @@ I enjoy collaborating on **DevOps, Cloud, Kubernetes, and AI-driven infrastructu
 
 ---
 
-<div align="center">
 
-⭐ If you like my work, consider **starring some repositories**!
-
-</div>
