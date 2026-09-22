@@ -91,42 +91,92 @@ I enjoy working at the intersection of **automation, cloud platforms, container 
 
 ## 🇮🇳 Viksit Bharat Buildathon 2025
 
-**Nationwide Student Innovation & Experiential Learning Platform**
+<p align="center">
+  <strong>Nationwide Student Innovation & Experiential Learning Platform</strong>
+</p>
 
-Contributed to the **cloud infrastructure, application deployment, server configuration, and production support** of the Viksit Bharat Buildathon 2025 platform, a nationwide student innovation initiative for Grades 6–12, organized by the Department of School Education & Literacy, Ministry of Education, in collaboration with Atal Innovation Mission, NITI Aayog, and AICTE.
+<p align="center">
+  Contributed to cloud infrastructure, application deployment, server configuration,
+  and production support for the Viksit Bharat Buildathon 2025 platform.
+</p>
+
+---
 
 ### 📊 Platform Scale
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>68,775</h3>
+      <b>🏫 Schools</b>
+    </td>
+    <td align="center">
+      <h3>184,646</h3>
+      <b>👨‍🏫 Teachers</b>
+    </td>
+    <td align="center">
+      <h3>390,486</h3>
+      <b>🎓 Students</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>94,325</h3>
+      <b>👥 Teams Created</b>
+    </td>
+    <td align="center">
+      <h3>45,022</h3>
+      <b>💡 Ideas Submitted</b>
+    </td>
+    <td align="center">
+      <h3>5×</h3>
+      <b>🚀 Application Stacks</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☁️ Infrastructure Contribution
+
+<table align="center">
+  <tr>
+    <td align="center">🌐<br><b>5×</b><br>Frontend Servers</td>
+    <td align="center">⚙️<br><b>5×</b><br>Backend Servers</td>
+    <td align="center">🗄️<br><b>5×</b><br>Database Servers</td>
+    <td align="center">🔗<br><b>5×</b><br>Application URLs</td>
+  </tr>
+</table>
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/Schools-68%2C775-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Teachers-184%2C646-2EA44F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Students-390%2C486-6F42C1?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Teams%20Created-94%2C325-F0883E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ideas%20Submitted-45%2C022-D73A49?style=for-the-badge"/>
-
+  <b>5 application stacks</b> — each consisting of frontend, backend,
+  and database infrastructure.
 </p>
 
-### ☁️ Infrastructure Scale
+---
+
+### 🔧 DevOps Contribution
+
+<table>
+  <tr>
+    <td>☁️ Cloud Infrastructure</td>
+    <td>🚀 Application Deployment</td>
+    <td>🖥️ Server Configuration</td>
+  </tr>
+  <tr>
+    <td>🌐 DNS & Application URLs</td>
+    <td>📊 Monitoring & Troubleshooting</td>
+    <td>🔄 Deployment & Release Support</td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/5×-Application%20Deployments-232F3E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/5×-Frontend%20Servers-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/5×-Backend%20Servers-2496ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/5×-Database%20Servers-336791?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/5×-Application%20URLs-6F42C1?style=for-the-badge"/>
-
+  <a href="https://vbb.mic.gov.in/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Platform-vbb.mic.gov.in-0969DA?style=for-the-badge" />
+  </a>
 </p>
-
-> 🚀 Managed and supported **5 application stacks**, each consisting of frontend, backend, and database infrastructure, for the same platform.
-
 ### 🔧 DevOps Responsibilities
 
 - ☁️ Cloud infrastructure setup and configuration
