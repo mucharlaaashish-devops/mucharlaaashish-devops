@@ -285,14 +285,10 @@ Designed and implemented an AWS application architecture focused on **secure net
 </p>
 
 
-with:
-
-```markdown
-### ☁️ AWS Production Architecture
 
 <p align="center">
   <img 
-    src="./assets/aws-production-architecture.png" 
+    src="./assets/aws.png" 
     alt="AWS Production Architecture"
     width="100%"
   />
