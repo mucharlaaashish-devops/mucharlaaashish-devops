@@ -89,11 +89,11 @@ I enjoy working at the intersection of **automation, cloud platforms, container 
 
 ## 🚀 Current Contribution & Activity
 
-### 🇮🇳 Viksit Bharat Buildathon
+## 🇮🇳 Viksit Bharat Buildathon 2025
 
-**Large-Scale Government & Education Platform**
+**Nationwide Student Innovation & Experiential Learning Platform**
 
-Contributed to the cloud infrastructure, application deployment, server configuration, and production support of the Viksit Bharat Buildathon platform.
+Contributed to the **cloud infrastructure, application deployment, server configuration, and production support** of the Viksit Bharat Buildathon 2025 platform, a nationwide student innovation initiative for Grades 6–12, organized by the Department of School Education & Literacy, Ministry of Education, in collaboration with Atal Innovation Mission, NITI Aayog, and AICTE.
 
 ### 📊 Platform Scale
 
@@ -103,9 +103,9 @@ Contributed to the cloud infrastructure, application deployment, server configur
 <img src="https://img.shields.io/badge/Teachers-184%2C646-2EA44F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Students-390%2C486-6F42C1?style=for-the-badge"/>
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Teams-94%2C325-F0883E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Teams%20Created-94%2C325-F0883E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ideas%20Submitted-45%2C022-D73A49?style=for-the-badge"/>
 
 </p>
@@ -119,14 +119,32 @@ Contributed to the cloud infrastructure, application deployment, server configur
 <img src="https://img.shields.io/badge/5×-Backend%20Servers-2496ED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/5×-Database%20Servers-336791?style=for-the-badge"/>
 
-<br/>
+<br><br>
 
 <img src="https://img.shields.io/badge/5×-Application%20URLs-6F42C1?style=for-the-badge"/>
 
 </p>
 
-> **Infrastructure handled:** 5 application stacks, each consisting of frontend, backend, and database infrastructure, supporting the same large-scale platform.
+> 🚀 Managed and supported **5 application stacks**, each consisting of frontend, backend, and database infrastructure, for the same platform.
 
+### 🔧 DevOps Responsibilities
+
+- ☁️ Cloud infrastructure setup and configuration
+- 🚀 Frontend and backend application deployment
+- 🖥️ Server configuration and management
+- 🌐 DNS and application URL configuration
+- 📊 Production monitoring and troubleshooting
+- 🔄 Deployment and release support
+- 🛠️ Application and server maintenance
+- 🔐 Infrastructure and access management
+
+### 🔗 Project
+
+<p align="center">
+  <a href="https://vbb.mic.gov.in/">
+    <img src="https://img.shields.io/badge/Visit%20Live%20Platform-vbb.mic.gov.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 ### 🔧 DevOps Responsibilities
 
 * Cloud infrastructure setup and configuration
