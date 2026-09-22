@@ -284,38 +284,21 @@ Designed and implemented an AWS application architecture focused on **secure net
   <img src="./assets/aws-architecture.png" width="900"/>
 </p>
 
-### 🔗 Architecture Flow
 
-```text
-Users
-  │
-  ▼
-Route 53
-  │
-  ▼
-CloudFront
-  │
-  ▼
-ACM / HTTPS
-  │
-  ▼
-AWS VPC
-  │
-  ├── Private Subnet
-  │      └── EC2
-  │
-  ├── Private Subnet
-  │      └── RDS MySQL
-  │
-  └── VPC Endpoints
+with:
 
-GitHub
-  │
-  ▼
-GitHub Actions
-  │
-  ▼
-AWS Systems Manager
-  │
-  ▼
-Application Deployment
+```markdown
+### ☁️ AWS Production Architecture
+
+<p align="center">
+  <img 
+    src="./assets/aws-production-architecture.png" 
+    alt="AWS Production Architecture"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <b>Secure AWS application architecture with private infrastructure,
+  managed database, HTTPS, CDN, CI/CD and centralized management.</b>
+</p>
