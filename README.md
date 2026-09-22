@@ -280,10 +280,6 @@ Contributed to the **cloud infrastructure, application deployment, server config
 
 Designed and implemented an AWS application architecture focused on **secure networking, application hosting, database connectivity, HTTPS, DNS, and automated deployment**.
 
-<p align="center">
-  <img src="./assets/aws-architecture.png" width="900"/>
-</p>
-
 
 
 <p align="center">
