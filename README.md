@@ -1,214 +1,321 @@
-<div align="center">
+<!-- ======================= HEADER ======================= -->
 
-#  Aashish Mucharla
+<h1 align="center">
+  Hi 👋, I'm Aashish Mucharla
+</h1>
 
-### DevOps Engineer ⚙️ | Cloud Infrastructure | CI/CD Automation | Kubernetes
-
-<img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Automating+Infrastructure;Building+Cloud+Native+Systems;Kubernetes+%7C+Docker+%7C+AWS;Scaling+Reliable+Systems&center=true&width=700&height=45&color=326CE5">
-
-<p>
-<a href="https://www.linkedin.com/in/ritika-garg-b39270194/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ritikagarg60814@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ritikagarg0326&label=Profile+Views&color=blue&style=for-the-badge"/>
-
-</p>
-
-</div>
-
----
-
-# 🤖 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUyY2Y0ZGRhM2I3M2UxN2Q3NGFlYjQ0NzNhNDY3NmNmYTY1YzY3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
-
-Hi there 👋  
-
-I'm **Aashish Mucharla**, a **DevOps Engineer with 3+ years of experience**, passionate about building **scalable cloud infrastructure and automated deployment pipelines**.
-
-I enjoy working at the intersection of **automation, cloud platforms, container orchestration, and reliability engineering**.
-
-⚡ My focus is building **systems that deploy faster, scale reliably, and recover automatically.**
-
-🚀 Currently exploring **AI-driven automation, agentic workflows, and intelligent DevOps systems.**
-
----
-
-# ⚡ Tech Stack
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F162D?style=flat&logo=helm&logoColor=white)
-
-### 🔁 CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-# 🔥 Key Contributions
-
-🚀 Built **CI/CD pipelines** reducing deployment time by **40%**
-
-🐳 Containerized microservices using **Docker + Kubernetes**
-
-📊 Implemented **Prometheus + Grafana monitoring stack**
-
-☁️ Automated infrastructure provisioning using **Terraform**
-
-🔧 Managed Linux-based production systems and resolved critical incidents
-
----
-
-
----
-
-# 📈 Contribution Activity
-
-## 🚀 Current Contribution & Activity
-
-## 🇮🇳 Viksit Bharat Buildathon 2025
+<h3 align="center">
+  AWS DevOps Engineer | Cloud Infrastructure | CI/CD | Automation
+</h3>
 
 <p align="center">
-  <strong>Nationwide Student Innovation & Experiential Learning Platform</strong>
+  Building, deploying and supporting cloud-based applications across AWS & Azure.
 </p>
 
 <p align="center">
-  Contributed to cloud infrastructure, application deployment, server configuration,
-  and production support for the Viksit Bharat Buildathon 2025 platform.
+  <a href="https://github.com/mucharlaaashish-devops">
+    <img src="https://img.shields.io/badge/GitHub-mucharlaaashish--devops-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://vbb.mic.gov.in/">
+    <img src="https://img.shields.io/badge/Live%20Project-Viksit%20Bharat%20Buildathon-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,helm,jenkins,githubactions,prometheus,grafana,git" />
 </p>
 
 ---
 
-### 📊 Platform Scale
+# 👨‍💻 About Me
+
+I'm **Aashish Mucharla**, an **AWS DevOps Engineer with 3+ years of experience** in cloud infrastructure, application deployments, server management, CI/CD, monitoring, and production support across AWS and Azure environments.
+
+I work on building and supporting cloud infrastructure, deploying applications, automating delivery pipelines, configuring servers and DNS, monitoring workloads, and troubleshooting production environments.
+
+### ⚡ Focus Areas
+
+- ☁️ AWS & Azure Cloud Infrastructure
+- 🚀 CI/CD & Deployment Automation
+- 🖥️ Linux & Server Administration
+- 🌐 DNS, Networking & Application Hosting
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes & Helm
+- 🏗️ Terraform & Infrastructure as Code
+- 📊 Monitoring & Observability
+- 🔐 IAM, Security & Access Management
+- 🛠️ Production Support & Troubleshooting
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux" />
+</p>
+
+**AWS:** EC2 • VPC • RDS • S3 • IAM • Route 53 • CloudFront • ACM • CloudWatch • SSM
+
+**Azure:** Virtual Machines • Networking • Application Infrastructure • Monitoring
+
+---
+
+## 🚀 CI/CD & Version Control
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins" />
+</p>
+
+**Tools:** Git • GitHub • GitHub Actions • Jenkins • AWS CodePipeline • Jira • SonarQube
+
+---
+
+## 🐳 Containers & Infrastructure as Code
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,ansible" />
+</p>
+
+Docker • Kubernetes • Helm • Terraform • Ansible
+
+> Kubernetes, Terraform and Helm are also part of my hands-on learning and sample projects.
+
+---
+
+## 📊 Monitoring & Observability
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+Amazon CloudWatch • Prometheus • Grafana • Logs • Alerts • Troubleshooting
+
+---
+
+## ⚙️ Scripting & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,powershell,python" />
+</p>
+
+Bash • PowerShell • Python
+
+---
+
+# 🚀 What I Do
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <h3>68,775</h3>
-      <b>🏫 Schools</b>
-    </td>
-    <td align="center">
-      <h3>184,646</h3>
-      <b>👨‍🏫 Teachers</b>
-    </td>
-    <td align="center">
-      <h3>390,486</h3>
-      <b>🎓 Students</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>94,325</h3>
-      <b>👥 Teams Created</b>
-    </td>
-    <td align="center">
-      <h3>45,022</h3>
-      <b>💡 Ideas Submitted</b>
-    </td>
-    <td align="center">
-      <h3>5×</h3>
-      <b>🚀 Application Stacks</b>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Infrastructure
+
+- AWS infrastructure
+- VPC & networking
+- EC2 & RDS
+- IAM & security groups
+- DNS & application hosting
+- Private infrastructure
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Automation
+
+- Git workflows
+- GitHub Actions
+- Jenkins pipelines
+- AWS CodePipeline
+- Application deployments
+- Release support
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 Containers
+
+- Docker
+- Containerized applications
+- Kubernetes
+- Helm
+- Minikube
+- OpenShift exploration
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Monitoring & Operations
+
+- CloudWatch
+- Prometheus
+- Grafana
+- Server monitoring
+- Logs & troubleshooting
+- Production support
+
+</td>
+</tr>
 </table>
 
 ---
 
-### ☁️ Infrastructure Contribution
+# 🇮🇳 Viksit Bharat Buildathon 2025
+
+### Nationwide Student Innovation & Experiential Learning Platform
+
+Contributed to the **cloud infrastructure, application deployment, server configuration, and production support** of the Viksit Bharat Buildathon 2025 platform, a nationwide student innovation initiative for Grades 6–12.
+
+---
+
+## 📊 Platform Scale
 
 <table align="center">
-  <tr>
-    <td align="center">🌐<br><b>5×</b><br>Frontend Servers</td>
-    <td align="center">⚙️<br><b>5×</b><br>Backend Servers</td>
-    <td align="center">🗄️<br><b>5×</b><br>Database Servers</td>
-    <td align="center">🔗<br><b>5×</b><br>Application URLs</td>
-  </tr>
+<tr>
+<td align="center">
+<h2>68,775</h2>
+🏫<br><b>Schools</b>
+</td>
+
+<td align="center">
+<h2>184,646</h2>
+👨‍🏫<br><b>Teachers</b>
+</td>
+
+<td align="center">
+<h2>390,486</h2>
+🎓<br><b>Students</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<h2>94,325</h2>
+👥<br><b>Teams Created</b>
+</td>
+
+<td align="center">
+<h2>45,022</h2>
+💡<br><b>Ideas Submitted</b>
+</td>
+
+<td align="center">
+<h2>5×</h2>
+🚀<br><b>Application Stacks</b>
+</td>
+</tr>
+</table>
+
+---
+
+## ☁️ Infrastructure Scale
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h2>5×</h2>
+🌐<br>
+<b>Frontend<br>Servers</b>
+</td>
+
+<td align="center" width="25%">
+<h2>5×</h2>
+⚙️<br>
+<b>Backend<br>Servers</b>
+</td>
+
+<td align="center" width="25%">
+<h2>5×</h2>
+🗄️<br>
+<b>Database<br>Servers</b>
+</td>
+
+<td align="center" width="25%">
+<h2>5×</h2>
+🔗<br>
+<b>Application<br>URLs</b>
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <b>5 application stacks</b> — each consisting of frontend, backend,
-  and database infrastructure.
+  <b>5 application stacks</b> — each consisting of frontend, backend and database infrastructure.
 </p>
 
 ---
 
-### 🔧 DevOps Contribution
+## 🔧 DevOps Contribution
 
-<table>
-  <tr>
-    <td>☁️ Cloud Infrastructure</td>
-    <td>🚀 Application Deployment</td>
-    <td>🖥️ Server Configuration</td>
-  </tr>
-  <tr>
-    <td>🌐 DNS & Application URLs</td>
-    <td>📊 Monitoring & Troubleshooting</td>
-    <td>🔄 Deployment & Release Support</td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center">☁️<br><b>Cloud Infrastructure</b></td>
+<td align="center">🚀<br><b>Application Deployment</b></td>
+<td align="center">🖥️<br><b>Server Configuration</b></td>
+</tr>
+
+<tr>
+<td align="center">🌐<br><b>DNS & URLs</b></td>
+<td align="center">📊<br><b>Monitoring & Troubleshooting</b></td>
+<td align="center">🔄<br><b>Deployment Support</b></td>
+</tr>
 </table>
 
 ---
 
 <p align="center">
   <a href="https://vbb.mic.gov.in/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Platform-vbb.mic.gov.in-0969DA?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Platform-vbb.mic.gov.in-0969DA?style=for-the-badge"/>
   </a>
 </p>
 
+---
 
-### 🔗 Project
+# ☁️ AWS Production Architecture
+
+Designed and implemented an AWS application architecture focused on **secure networking, application hosting, database connectivity, HTTPS, DNS, and automated deployment**.
 
 <p align="center">
-  <a href="https://vbb.mic.gov.in/">
-    <img src="https://img.shields.io/badge/Visit%20Live%20Platform-vbb.mic.gov.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+  <img src="./assets/aws-architecture.png" width="900"/>
 </p>
-### 🔧 DevOps Responsibilities
 
-* Cloud infrastructure setup and configuration
-* Frontend and backend application deployment
-* Database/server configuration
-* DNS and application URL configuration
-* Production environment support
-* Monitoring and troubleshooting
-* Application/server maintenance
-* Deployment and release support
+### 🔗 Architecture Flow
 
-🔗 **Live Platform:** https://vbb.mic.gov.in/
+```text
+Users
+  │
+  ▼
+Route 53
+  │
+  ▼
+CloudFront
+  │
+  ▼
+ACM / HTTPS
+  │
+  ▼
+AWS VPC
+  │
+  ├── Private Subnet
+  │      └── EC2
+  │
+  ├── Private Subnet
+  │      └── RDS MySQL
+  │
+  └── VPC Endpoints
 
-
----
-
-# 🤝 Connect With Me
-
-💼 LinkedIn  https://www.linkedin.com/in/mucharla-aashish-3a04b0227
-📧 **Email:** mucharlaaashish@gmail.com  
-
-I enjoy collaborating on **DevOps, Cloud, Kubernetes, and AI-driven infrastructure projects.**
-
----
-
-
+GitHub
+  │
+  ▼
+GitHub Actions
+  │
+  ▼
+AWS Systems Manager
+  │
+  ▼
+Application Deployment
