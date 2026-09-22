@@ -177,16 +177,7 @@ I enjoy working at the intersection of **automation, cloud platforms, container 
     <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Platform-vbb.mic.gov.in-0969DA?style=for-the-badge" />
   </a>
 </p>
-### 🔧 DevOps Responsibilities
 
-- ☁️ Cloud infrastructure setup and configuration
-- 🚀 Frontend and backend application deployment
-- 🖥️ Server configuration and management
-- 🌐 DNS and application URL configuration
-- 📊 Production monitoring and troubleshooting
-- 🔄 Deployment and release support
-- 🛠️ Application and server maintenance
-- 🔐 Infrastructure and access management
 
 ### 🔗 Project
 
